@@ -1,2 +1,2 @@
 # Writing-Better-Prompts
-Learning the basics of the prompt engineering by experimenting with clarity, specificity and tone by taking 3 vague or ineffective prompts and rewrite them into imoroved versions. Compared and analysed the outputs to understand how prompt design affects LLM behavior. 
+Prompt Engineering internship task focused on AI communication and effective prompt design. Applied the CRAFT framework to improve response clarity, accuracy, and consistency while exploring how prompt quality impacts Generative AI outputs.
